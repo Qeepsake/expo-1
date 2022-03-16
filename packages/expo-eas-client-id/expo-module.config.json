@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android"],
+  "ios": {
+    "modulesClassNames": ["EASClientIdModule"]
+  },
+  "android": {
+    "modulesClassNames": ["expo.modules.easclientid.EASClientIdModule"]
+  }
+}

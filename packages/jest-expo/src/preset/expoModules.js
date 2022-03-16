@@ -145,6 +145,7 @@ module.exports = {
           { key: 2, argumentsCount: 4, name: 'registerViewsForInteraction' },
           { key: 3, argumentsCount: 2, name: 'init' },
         ],
+        EASClientId: [{ key: 0, argumentsCount: 1, name: 'getClientIdAsync' }],
         ExpoAdsAdMob: [
           { key: 0, argumentsCount: 0, name: 'getPermissionsAsync' },
           { key: 1, argumentsCount: 1, name: 'setTestDeviceIDAsync' },
